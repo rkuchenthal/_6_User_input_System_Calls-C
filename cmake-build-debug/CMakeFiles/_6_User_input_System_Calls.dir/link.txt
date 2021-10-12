@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\_6_User_input_System_Calls.dir/objects.a
+C:\Compilers\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\_6_User_input_System_Calls.dir/objects.a @CMakeFiles\_6_User_input_System_Calls.dir\objects1.rsp
+C:\Compilers\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\_6_User_input_System_Calls.dir/objects.a -Wl,--no-whole-archive -o _6_User_input_System_Calls.exe -Wl,--out-implib,lib_6_User_input_System_Calls.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_6_User_input_System_Calls.dir\linklibs.rsp
